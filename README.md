@@ -1,6 +1,6 @@
-# Final Project Requirements
+# Final Project Requirements (600 points)
 
-## Part 1 - Simple Web Crawler
+## Part 1 - Simple Web Crawler (250 points)
 
 - No MySQL database, in-memory persistence only.
 - Single threaded **only**.
@@ -15,12 +15,12 @@
 - Needs to run on the class server.
 - KISS (Keep It Simple Silly)
 
-## Part 2 - Web Crawler with a MySQL database
+## Part 2 - Web Crawler with a MySQL database (150 points)
 
 - All the previous constraints.
 - The database needs to run on the class database server.
 
-## Part 3 - Simple Search Engine
+## Part 3 - Simple Search Engine (200 points)
 
 - All the previous contraints.
 - Use the database from part 2.
